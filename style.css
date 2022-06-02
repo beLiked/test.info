@@ -1,0 +1,117 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Montserrat", sans-serif;
+  font-style: normal;
+  background-color: #fff;
+  color: #555;
+  max-width: 1550px;
+}
+
+h1 {
+  left: 0px;
+  top: 0px;
+  font-weight: 800;
+  font-size: 40px;
+  line-height: 130%;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: #01348d;
+}
+
+h2 {
+  width: 700px;
+  height: 31px;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 130%;
+  color: #01348d;
+  margin-bottom: 22px;
+}
+
+h3 {
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 130%;
+  letter-spacing: -0.04em;
+  margin-bottom: 40px;
+  margin-top: 22px;
+}
+
+.international h1 {
+  height: 52px;
+}
+.int {
+  display: inline-flex;
+  margin-top: 40px;
+}
+.int1 img {
+  margin-left: 5px;
+}
+.int2 h2 {
+  margin-bottom: 49px;
+}
+.int2 {
+  margin-left: 110px;
+}
+.colortext {
+  color: #f2a428;
+  font-weight: 700;
+}
+
+.russian {
+  margin-top: 50px;
+}
+.russian h2 {
+  color: #555;
+  margin-top: 40px;
+}
+.rus {
+  display: inline-flex;
+}
+.rus img {
+  margin-top: 15px;
+}
+.rus2 {
+  display: inline-flex;
+}
+.rus2 img {
+  margin-top: 10px;
+}
+.rus3 {
+  margin-left: -30px;
+}
+.rus3 img {
+  vertical-align: middle;
+  text-align: center;
+  margin-right: 18px;
+}
+.med {
+  display: flex;
+  vertical-align: middle;
+  margin: 58px 4px -43px;
+}
+.progress {
+  max-width: 1500px;
+  margin-left: -32px;
+}
+p {
+  font-size: 24px;
+  line-height: 130%;
+  letter-spacing: -0.04em;
+}
+.med p {
+  margin-left: 50px;
+  font-weight: 400;
+  margin-top: 51px;
+}
+.sert {
+  display: flex;
+  vertical-align: middle;
+  margin: 58px 4px -43px;
+}
+.sert p {
+  margin-left: 38px;
+  font-weight: 400;
+  margin-top: 26px;
+}
